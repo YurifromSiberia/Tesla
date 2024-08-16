@@ -9,6 +9,7 @@ html{
 a{
     display: inline-block;
     text-decoration: none;
+    color: #fff;
    
 }
 ul,
@@ -18,15 +19,16 @@ li{
     list-style: none;
 }
 body{
-    // font-family: 'Quicksand', sans-serif;
-    // font-weight: 400;
-    // font-style: 15px;
-    // color: $text;
-     
+    background-color: #0B0B0B;
+    color: #fff;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto Condensed', serif;
+  
 }
 
 .container {
-    // max-width: 1140px;
-    // margin: 0 auto;
-    // padding: 0 15px;
+    max-width: 1230px;
+    margin: 0 auto;
 }
